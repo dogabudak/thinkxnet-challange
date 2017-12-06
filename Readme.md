@@ -3,6 +3,7 @@
 This project is a challenge of thinxnet.
 
 index.js refers to promised Approach to given task
+
 node ./index.js to try
 
 index2.js refers to callback Approach to given task
