@@ -1,0 +1,19 @@
+{
+  "name": "thinxnet",
+  "version": "1.0.0",
+  "description": "thinxnet challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Doga",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^4.0.1",
+    "mongojs": "^2.4.1",
+    "should": "^13.1.3"
+  },
+  "devDependencies": {
+    "eslint": "^4.12.1"
+  }
+}
